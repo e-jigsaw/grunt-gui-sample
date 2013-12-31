@@ -1,0 +1,16 @@
+{
+  "name": "grunt-gui-sample",
+  "version": "0.0.0",
+  "description": "grunt gui sample",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jigsaw <m@jgs.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-peon-gui": "~1.0.0",
+    "grunt-contrib-coffee": "~0.8.0"
+  }
+}
